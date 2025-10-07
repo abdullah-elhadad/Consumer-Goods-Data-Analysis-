@@ -84,6 +84,8 @@ A detailed report accompanies this project, providing an in-depth **Insights & R
 
 ---
 
+
 📁 ## Project Files
-* **Consumer Goods Data Analysis .xlsx** → Raw dataset and analysis sheets (Data, Pivot Tables, Dashboard)
-* **Report.docx** → Comprehensive Project Report and Recommendations
+
+* **[Consumer Goods Data Analysis .xlsx](https://github.com/abdullah-elhadad/Consumer-Goods-Data-Analysis-/blob/main/Consumer%20Goods%20Data%20Analysis%20.xlsx)** → Raw dataset and analysis sheets (Data, Pivot Tables, Dashboard)
+* **[Report.docx](https://github.com/abdullah-elhadad/Consumer-Goods-Data-Analysis-/blob/main/Report.docx)** → Comprehensive Project Report and Recommendations
