@@ -54,6 +54,21 @@ The interactive dashboard focused on sales performance and included:
 
 ---
 
+## 🖼️ Visuals & Preview
+*The interactive Excel Dashboard provides a dynamic overview of the sales analysis. Below are key screenshots illustrating the main components and findings.*
+
+### 1. Main Dashboard Overview (KPIs, Charts, and Filters)
+![لقطة شاشة للوحة التحكم الرئيسية التي تعرض ملخص الأداء ومؤشرات KPIs الرئيسية](https://github.com/abdullah-elhadad/Consumer-Goods-Data-Analysis-/blob/main/images/Dashboard.png?raw=true)
+
+### 2. Exploratory Analysis - Pivot Tables (Set 1)
+![جزء من جدول المحور (Pivot Table) المستخدم في التحليل الاستكشافي للإجابة على الأسئلة](https://github.com/abdullah-elhadad/Consumer-Goods-Data-Analysis-/blob/main/images/pivot%20calculation.png?raw=true)
+
+### 3. Exploratory Analysis - Pivot Tables (Set 2)
+![جزء آخر من جدول المحور (Pivot Table) يوضح حسابات إضافية أو أسئلة مختلفة](https://github.com/abdullah-elhadad/Consumer-Goods-Data-Analysis-/blob/main/images/pivot%20calculation2.png?raw=true)
+
+
+---
+
 💡 ## Key Insights
 The analysis revealed several critical insights:
 * Sales vary significantly across categories, with certain sub-categories dominating revenue.
