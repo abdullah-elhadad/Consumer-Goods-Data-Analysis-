@@ -33,7 +33,7 @@ The project followed these main steps:
 
 ---
 
-🔍 ## Exploratory Analysis (Pivot Calculation)
+🔍  Exploratory Analysis (Pivot Calculation)
 A set of pivot tables and charts were built to answer specific business questions, including:
 * What is the most used ship mode by customers?
 * Who are the top 10 customers by sales and by order frequency?
