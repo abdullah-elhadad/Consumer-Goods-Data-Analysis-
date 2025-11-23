@@ -1,6 +1,6 @@
 # 📊 Consumer Goods Sales Data Analysis (Excel Project)
 
-📌 ## Project Overview
+📌  Project Overview
 This project focuses on analyzing consumer goods sales performance data using **Excel only**.
 The work involved cleaning and preparing the dataset, exploring it through pivot tables, and building an interactive dashboard to summarize the findings.
 
@@ -11,7 +11,7 @@ The analysis aims to answer key business questions such as:
 
 ---
 
-📂 ## Dataset Description
+📂  Dataset Description
 The dataset consists of multiple sheets:
 * **Orders**: The main fact table containing product details, sales, discounts, costs, and profits.
 * **People**: Sales representatives and their assigned regions.
@@ -24,7 +24,7 @@ Additional sheets created during the project:
 
 ---
 
-⚙️ ## Methodology
+⚙️  Methodology
 The project followed these main steps:
 1.  **Data Cleaning & Transformation**: Using Excel Power Query to remove errors, standardize fields, and prepare the dataset.
 2.  **Data Modeling**: Creating relationships across multiple sheets using Power Pivot.
@@ -44,7 +44,7 @@ A set of pivot tables and charts were built to answer specific business question
 
 ---
 
-📊 ## Final Dashboard
+📊  Final Dashboard
 The interactive dashboard focused on sales performance and included:
 * **Key Performance Indicators (KPIs)**: Total Sales, Orders, and Profit.
 * **Sales Breakdown**: Sales by Category, Sub-Category, Cities, and States.
@@ -54,7 +54,7 @@ The interactive dashboard focused on sales performance and included:
 
 ---
 
-## 🖼️ Visuals & Preview
+ 🖼️ Visuals & Preview
 *The interactive Excel Dashboard provides a dynamic overview of the sales analysis. Below are key screenshots illustrating the main components and findings.*
 
 ### 1. Main Dashboard Overview (KPIs, Charts, and Filters)
@@ -69,7 +69,7 @@ The interactive dashboard focused on sales performance and included:
 
 ---
 
-💡 ## Key Insights
+💡  Key Insights
 The analysis revealed several critical insights:
 * Sales vary significantly across categories, with certain sub-categories dominating revenue.
 * Regional performance shows strong contributions from specific territories.
@@ -79,7 +79,7 @@ The analysis revealed several critical insights:
 
 ---
 
-🛠️ ## Tools Used
+🛠️  Tools Used
 * **Excel Power Query** → Data cleaning & preparation
 * **Excel Power Pivot** → Data modeling & creating measures
 * **Pivot Tables & Charts** → Exploratory analysis
@@ -87,7 +87,7 @@ The analysis revealed several critical insights:
 
 ---
 
-📄 ## Project Report Summary (Report.docx)
+📄  Project Report Summary (Report.docx)
 
 A detailed report accompanies this project, providing an in-depth **Insights & Recommendations** section based on the Excel analysis. Key areas covered in the report include:
 
@@ -100,7 +100,7 @@ A detailed report accompanies this project, providing an in-depth **Insights & R
 ---
 
 
-📁 ## Project Files
+📁  Project Files
 
 * **[Consumer Goods Data Analysis .xlsx](https://github.com/abdullah-elhadad/Consumer-Goods-Data-Analysis-/blob/main/Consumer%20Goods%20Data%20Analysis%20.xlsx)** → Raw dataset and analysis sheets (Data, Pivot Tables, Dashboard)
 * **[Report.docx](https://github.com/abdullah-elhadad/Consumer-Goods-Data-Analysis-/blob/main/Report.docx)** → Comprehensive Project Report and Recommendations
